@@ -6,3 +6,8 @@ def power(n,p):
 n=int(input("Enter the number:"))
 p=int(input("Enter the power:"))
 power(n,p)
+
+output:
+Enter the number:5
+Enter the power:2
+25
