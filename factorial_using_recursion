@@ -6,6 +6,7 @@ def factorial(n):
 n=int(input("Enter the number:"))
 factorial(n)
 
-OUTPUT:
+
+output:
 Enter the number:5
 120
