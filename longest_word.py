@@ -1,10 +1,7 @@
 def longest_word(word):
-    word=max(word,key=len)
-    print("longest word:",word)
-    print("its length is:",len(word))
-a=["book","pen","pencil","bag","calculator"]
+    word=max(word,key_len)
+    print("Longest word:",word)
+    print("length of the longest word is:",len(word))
+a=["book","calculator","pen","pencil","bag"]
 longest_word(a)
 
-output:
-longest word: calculator
-its length is: 10
